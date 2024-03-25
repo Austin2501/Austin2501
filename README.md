@@ -1,4 +1,7 @@
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=Austin2501&icon=7&color=11)](https://visitcount.itsvg.in)
+</div>
 
 <h1 align="center" > Hi 👋, I'm Vineet Rawat</h1>
 <h3 align="center" > A passionate developer from India 💻</h3>
